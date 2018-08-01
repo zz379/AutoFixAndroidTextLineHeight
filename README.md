@@ -1,2 +1,3 @@
 # AutoFixAndroidTextLineHeight
 Auto Fix Android Text LineHeight
+自动修复Sketch设计图上的文本框的行高，使之与Android手机上TextView的最终显示高度相同

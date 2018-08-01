@@ -1,0 +1,18 @@
+{
+    "name" : "Auto Fix Android Text Line Height",
+    "identifier" : "com.zz379.setLineHeight",
+    "version" : "1.0.1",
+    "description" : "自动修复Sketch字体行高与真实Android系统标准字体行高相同",
+    "authorEmail" : "1104197791@qq.com",
+    "author" : "zz379",
+
+    "commands" : [
+    {
+      "script" : "script.js",
+      "handler" : "onSetLineHeight",
+      "shortcut" : "shift alt cmd o",
+      "name" : "FixAndroid",
+      "identifier" : "com.zz379.fixandroid"
+    },
+  ]
+}
