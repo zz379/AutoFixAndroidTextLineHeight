@@ -7,3 +7,5 @@ Auto Fix Android Text LineHeight
 
 原项目地址：https://github.com/youngxkk/AutoFixiOSTextLineHeight
 
+ExcludeiOSTextLineHeight.sketchplugin
+这个插件的的目的是去除Sketch上IOS所有文字的多余行高，即 行高 = 平方字体的文字高度
